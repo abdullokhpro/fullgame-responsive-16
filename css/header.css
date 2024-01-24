@@ -1,0 +1,12 @@
+header {
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0.88) 0% 50%, #57B8FF 50% 100%), url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+
+.video-footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 400px;
+    margin: 0 auto;
+    padding-top: 50px;
+}
